@@ -52,7 +52,8 @@ _Junior IT Technician_<br>
 On-site and oncall support of customers infrastructure (small business).<br>
 Troubleshooting workstation and SOHO networking devices (NAS, wireless router, printers).<br>
 
-<br>
+<p style="page-break-after: always;">&nbsp;</p>
+<p style="page-break-before: always;">&nbsp;</p>
 
 ## Education
 
