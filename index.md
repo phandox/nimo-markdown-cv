@@ -49,8 +49,10 @@ Realization of IoT demo on IOX platform - monitoring of temperature from sensor 
 ### __TOTAL SERVICE s.r.o__  `2014/4 - 2014/8`
 _Junior IT Technician_<br>
 
-On-site and oncall support of customers infrastructure (small business)<br>
+On-site and oncall support of customers infrastructure (small business).<br>
 Troubleshooting workstation and SOHO networking devices (NAS, wireless router, printers).<br>
+
+<p>
 
 ## Education
 
@@ -65,6 +67,7 @@ _Bachelor (Bc.)_<br>
 
 #### __CCSE - Check Point Certified Security Expert R80__  `2018/5 - 2020/5`
 
+<br>
 
 #### __CCNA Routing & Switching__ `2015/1 - 2021/1`
 Recertified by passing CCNP SWITCH exam in January 2018 _(exam id: 300-115)_
