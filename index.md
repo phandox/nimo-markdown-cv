@@ -5,8 +5,8 @@ pdf: true
 ---
 # Lukas __Nagy__
 <div align="center" id="contact_info">
-<i class="fi-home" style="margin-left:1em">Nad Zlatnicí 2065/4, 160 00, Prague</i> 
-<i class="fi-telephone" style="margin-left:1em">+420 608 597 980</i>
+<i class="fi-home" style="margin-left:1em"> Nad Zlatnicí 2065/4, 160 00, Prague</i> 
+<i class="fi-telephone" style="margin-left:1em"> +420 608 597 980</i>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="nagy.lukas1@gmail.com" style="margin-left:0.5em">nagy.lukas1@gmail.com</a>
 <i class="fi-social-github" style="margin-left:1em"></i>
@@ -17,7 +17,7 @@ pdf: true
 
 ## Summary
 
-Determined quick learner wtih interest in enterprise networking, security, system administration, open-source software and DevOps culture. I strongly believe in automating everything that is repeatable and that infrastructure should be treated as code which brings best practices from software development to operations. I am also building a small personal blog site based on these principles at [blog.luknagy.com](https://blog.luknagy.com), which code is open-sourced on my GitHub profile.
+Determined quick learner wtih interest in enterprise networking, security, system administration, open-source software and DevOps culture. I strongly believe in automating everything that is repeatable and that infrastructure should be treated as code which brings best practices from software development to operations. I am also building a small personal blog site based on these principles at [blog.luknagy.com](https://blog.luknagy.com), which code is open-sourced on my [GitHub profile](https://github.com/phandox/blog).
 
 ## Experience
 
@@ -33,7 +33,7 @@ _Instructor_<br>
 
 Teaching Cisco CCNA courses to university students (Routing and Switching, Security).<br>
 
-### __Sincoolka club - Student Union of Czech Technical University in Prague__  `2013/9 - 8/2016`
+### __Sincoolka club - Student Union of Czech Technical University in Prague__  `2013/9 - 2016/8`
 _Network Administrator_<br>
 
 Configuration and maintenance of Cisco switching infrastructure at student dormitory.<br>
@@ -75,16 +75,16 @@ Recertified by passing CCNP SWITCH exam in January 2018 _(exam id: 300-115)_
 #### __EMEA 2014 International NetRiders__ `2014`
 _Cisco NetAcad Students International competition_<br>
 
-First place in National Round in Czech Republic.<br>
+1st place in National Round in Czech Republic.<br>
 13th place in Central Europe Region (from 32 competitors from national rounds).<br>
 23rd place in EMEA Region (from 179 competitors).<br>
 
 ## Skills
 
-Computer Networks (TCP/IP, fundamentals of routing protocols, campus network design principles)<br>
-scripting in Bash, Python 3<br>
+Computer networks (TCP/IP, fundamentals of routing protocols, campus network design principles)<br>
+Scripting in Bash, Python 3<br>
 Ansible<br>
-basic exposure to Docker, Terraform<br>
+Basic exposure to Docker, Terraform<br>
 Git and JIRA as user of teamwork platform<br>
 
 ## Languages
@@ -100,6 +100,7 @@ German - basic<br>
 Driver's license - B1<br>
 Ballroom dancing<br>
 Swimming<br>
+
 <!-- ### Footer
 
-Last updated: May 2018 -->
+Last updated: May 2018 -->  
