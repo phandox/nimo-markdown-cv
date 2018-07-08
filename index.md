@@ -17,7 +17,7 @@ pdf: true
 
 ## Summary
 
-Determined quick learner wtih interest in networking, security, system administration, open-source software. I am looking for new challenges in networking area to further expand my skills. I strongly believe in automating everything that is repeatable and that infrastructure should be treated as code which brings best practices from software development to operations. 
+Determined quick learner with interest in networking, security, system administration and open-source software. I am looking for new challenges in networking area to further expand my skills. I strongly believe in automating everything that is repeatable and that infrastructure should be treated as code which brings best practices from software development to operations. 
 
 ## Experience
 
@@ -50,7 +50,7 @@ Realization of IoT demo on IOX platform - monitoring of temperature from sensor 
 _Junior IT Technician_<br>
 
 On-site and oncall support of customers infrastructure (small business).<br>
-Troubleshooting workstation and SOHO networking devices (NAS, wireless router, printers).<br>
+Troubleshooting workstations and SOHO networking devices (NAS, wireless router, printers).<br>
 
 <p style="page-break-after: always;">&nbsp;</p>
 <p style="page-break-before: always;">&nbsp;</p>
