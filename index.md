@@ -17,7 +17,7 @@ pdf: true
 
 ## Summary
 
-Determined quick learner wtih interest in enterprise networking, security, system administration, open-source software and DevOps culture. I strongly believe in automating everything that is repeatable and that infrastructure should be treated as code which brings best practices from software development to operations. I am also building a small personal blog site based on these principles at [blog.luknagy.com](https://blog.luknagy.com), which code is open-sourced on my [GitHub profile](https://github.com/phandox/blog).
+Determined quick learner wtih interest in networking, security, system administration, open-source software. I am looking for new challenges in networking area to further expand my skills. I strongly believe in automating everything that is repeatable and that infrastructure should be treated as code which brings best practices from software development to operations. 
 
 ## Experience
 
@@ -62,7 +62,7 @@ _Bachelor (Bc.)_<br>
 
 - Programme: Information Technology
 - Thesis: _Optimalization of laboratory for teaching basics of computer networks_
-- Focus on computer network, administration of networks, Linux, scripting languages.
+- Focus on computer networks, administration of networks, Linux, scripting languages.
 
 ## IT Certifications
 
@@ -107,4 +107,4 @@ Swimming<br>
 
 <!-- ### Footer
 
-Last updated: May 2018 -->  
+Last updated: July 2018 -->  
