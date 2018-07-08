@@ -8,11 +8,11 @@ pdf: true
 <i class="fi-home" style="margin-left:1em"> Nad Zlatnicí 2065/4, 160 00, Prague</i> 
 <i class="fi-telephone" style="margin-left:1em"> +420 608 597 980</i>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="nagy.lukas1@gmail.com" style="margin-left:0.5em">nagy.lukas1@gmail.com</a>
+<a href="mailto:nagy.lukas1@gmail.com" style="margin-left:0.5em">nagy.lukas1@gmail.com</a>
 <i class="fi-social-github" style="margin-left:1em"></i>
 <a href="https://github.com/phandox">phandox</a>
 <i class="fi-social-linkedin" style="margin-left:1em"></i>
-<a href="www.linkedin.com/in/nagylukas">Lukas Nagy</a>
+<a href="https://linkedin.com/in/nagylukas">Lukas Nagy</a>
 </div>
 
 ## Summary
